@@ -1,0 +1,72 @@
+
+header
+{
+	display: flex;
+	justify-content: flex-end;
+}
+
+#conteneur
+{
+display: flex;
+justify-content: flex-end;
+vertical-align: middle;
+}
+
+
+
+.item
+{
+	display: inline;
+	padding: 10px
+}
+
+header input
+{
+	background-color: blue;
+	color: white;
+}
+
+
+section img
+{
+	padding-top: 100px
+}	
+
+
+#basg
+{
+display: flex;
+justify-content: flex-end;
+vertical-align: middle;
+}
+
+.item2
+{
+	display: inline;
+	padding: 25px 25px;
+	align-items: flex-end;
+}
+
+
+
+
+footer
+{
+	background-color : #eaeced;
+}
+
+html, body {
+	height: 100%;
+	margin: 0; padding: 0;
+}
+body {
+	display : table;
+	width: 100%;
+}
+
+footer 
+{
+	display : table-row;
+	height: 100px;
+}
+
